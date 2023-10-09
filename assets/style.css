@@ -12,7 +12,7 @@ html{
     margin: 0;
 }
 
-nav{
+header{
     background-color: #d4dbba;
     display: flex;
     justify-content: space-between;
