@@ -74,7 +74,7 @@ button{
     color: #f9faf8;
     font-size: 18px;
     padding: 0.5rem 1rem;
-    border-radius: 30px;
+    border-radius: 15px;
     border: #1f2937;
 }
 
@@ -159,11 +159,11 @@ figure{
 .call-to-action-container{
     background-color: #3882F6;
     width: 1000px;
-    padding: 4rem 2rem;
-    margin: 2rem 3rem;
-    border-radius: 30px;
+    padding: 2rem 3rem;
+    margin: auto 3rem;
+    border-radius: 15px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .call-to-action-text{
     margin: 0;
@@ -180,7 +180,8 @@ h3{
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 30px;
+    border-radius: 15px;
+    margin: auto;
 }
 
 footer{
