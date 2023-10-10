@@ -82,3 +82,39 @@ figure{
     margin: 0;
     padding: 0 5rem 0 0;
 }
+.product-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 300px;
+    margin: 3rem;
+}
+
+.product-header{
+    color: #1f2937;
+    font-weight: bolder;
+    font-size: 36px;
+    margin: 0;
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    color: #3d3d3d;
+    justify-content: space-around;
+    width: 1000px;
+    margin: 1rem auto;
+}
+
+.info-image{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+}
+
+.info{
+    width: 200px;
+    text-align: center;
+}
