@@ -118,3 +118,33 @@ figure{
     width: 200px;
     text-align: center;
 }
+
+/* The remainder of the cards will have a width of 1000px until the footer section. */
+
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 4rem 1rem 4rem;
+    height: 300px;
+}
+
+.quote-text{
+    width: 1000px;
+    color: #1f2937;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.quote-author{
+    color: #1f2937;
+    font-weight: 700;
+    width: 1000px;
+    display: flex;
+    justify-content: flex-end;
+}
